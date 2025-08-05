@@ -7,7 +7,7 @@ spec:
   selector:
     matchLabels:
       app: nginx
-  temlate:
+  template:
     metadata:
       labels:
         app: nginx
